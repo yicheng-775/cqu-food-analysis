@@ -59,7 +59,7 @@ python cqu_food.py
 
 # 4. 生成图表
 python analysis.py
-'''
+```
 
 ## 📝 相关文章
 
