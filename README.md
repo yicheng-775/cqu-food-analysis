@@ -47,11 +47,15 @@
 ## 🚀 快速运行
 
 ```bash
-# 1. 安装依赖
+# 1. 克隆仓库
+git clone https://github.com/yicheng-775/cqu-food-analysis.git
+cd cqu-food-analysis
+
+# 2. 安装依赖
 pip install requests pandas openpyxl matplotlib
 
-# 2. 运行爬虫（需替换 API Key）
+# 3. 运行爬虫（记得替换 API Key）
 python cqu_food.py
 
-# 3. 生成图表
+# 4. 生成图表
 python analysis.py
