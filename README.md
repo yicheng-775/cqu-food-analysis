@@ -58,7 +58,8 @@ pip install requests pandas openpyxl matplotlib
 python cqu_food.py
 
 # 4. 生成图表
-python analysis.py"""
+python analysis.py
+"""
 
 ## 📝 相关文章
 
